@@ -1,1 +1,1 @@
-# landing_page
+Landing page is an TOP project made to test fundamental HTML and CSS skills
