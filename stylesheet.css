@@ -69,8 +69,18 @@ h2 {
     display: flex;
     justify-content: center;
     gap: 50px;
+    padding: 30px 250px 100px;
 }
 
 .info {
-    width: 150px;
+    text-align: center;
+    color: grey;
+    font-size: 15px;
+    max-width: 150px;
+    font-weight: 500;
+}
+
+.icon {
+    border-radius: 10px;
+    border: 4px cornflowerblue solid;
 }
