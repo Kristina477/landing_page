@@ -84,3 +84,39 @@ h2 {
     border-radius: 10px;
     border: 4px cornflowerblue solid;
 }
+
+.quote {
+    background-color: lightgrey;
+    font-size: 33px;
+    font-style: italic;
+    font-weight: 100;
+    padding: 100px 300px;
+}
+
+.thor {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.signup {
+    background-color: cornflowerblue;
+    margin: 100px 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    color: white;
+    padding: 40px;
+}
+
+.sign {
+    border: 2px white solid;
+}
+
+.line1 {
+    font-weight: bold;
+    font-size: 20px;
+}
